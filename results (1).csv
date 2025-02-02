@@ -1,0 +1,6 @@
+Model,Rank
+DistilBERT,1
+RoBERTa,2
+Sentence-BERT,3
+BERT,4
+GPT-2,5
